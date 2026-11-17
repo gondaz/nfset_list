@@ -1,4 +1,4 @@
-# === Google Infrastructure & Photos (включая фикс заливки) ===
+# === Google Infrastructure & Photos ===
 nftset=/photos.google.com/4#inet#fw4#vpn_domains
 nftset=/googleapis.com/4#inet#fw4#vpn_domains
 nftset=/googleusercontent.com/4#inet#fw4#vpn_domains
